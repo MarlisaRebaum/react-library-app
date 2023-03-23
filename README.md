@@ -1,6 +1,6 @@
 # React Library App
 > Using React and Redux, I created a frontend for the 
-[Phonebook Flask App](https://github.com/MarlisaRebaum/phonebook-app).
+[Library Flask App](https://github.com/MarlisaRebaum/library-app).
 This project uses the library book database created in ElephantSQL and API 
 routes written with Flask for the backend.
 
