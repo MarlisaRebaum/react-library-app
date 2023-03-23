@@ -93,9 +93,9 @@ Some areas of improvement include:
 
 - The "contact" form is not actually working. Some things to add that would make
 it function would be:
-  -- Requiring email format in the "email" field
-  -- linking the form to an inbox, so the email actually gets sent
-  -- making all fields required and then only showing the "message sent" alert 
+  - Requiring email format in the "email" field
+  - linking the form to an inbox, so the email actually gets sent
+  - making all fields required and then only showing the "message sent" alert 
   when the message has actually been successfully sent
 - Sometimes there is an error loading pages and the fallback "loading..." is 
 displayed, but the page will only load when refreshed. I need to look into what
